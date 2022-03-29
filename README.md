@@ -51,4 +51,4 @@ Para contribuir com Petfood, siga estas etapas:
 5. Crie a solicitação de pull.
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 ---
-Feito com ♥ by [David Augusto](https://github.com/DavidAugustoo)
+Feito com ♥ by [Jeniffer Souza](https://github.com/Jeniffersouza)
