@@ -35,7 +35,7 @@ Práticar principais recursos de HTML, CSS e Javascript. Entre eles:
 
 ##  Layout 🔖
 No link abaixo você encontra o layout do projeto:
-- [Layout](https://www.figma.com/file/MfnsNLMGlxLnI2h3hE7vVw/PetFood?node-id=0%3A1)
+- [Layout](https://www.figma.com/file/XzfihpBmpuM13lSiAsSK89/PetFood?node-id=0%3A1)
 
 ## Funcionalidades 🛠✨
 - Listagem de produtos;
