@@ -8,6 +8,7 @@
 <p align="center"> 
 PetFood é um e-commerce totalmente voltado para o ramo de animais de estimação
 </p>
+<img src="/assets/images/video.gif" align="center" style="border-radius: 10px" />
 <p align="center">
 
 </p>
